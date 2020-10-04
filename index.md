@@ -86,6 +86,35 @@ seejuures aitab kompositsioon
 
 ---
 
+| section: ⁜ Harjutus 1
+| rows: auto 1fr 1fr
+| 1 1
+| 2 3
+
+## ⁜ Harjutus 1
+
+-
+
+1. Mine lehele <f-link to="https://randomwordgenerator.com/">randomwordgenerator.com</f-link>
+2. Vali sõnade arvuks 2, katseta ka sõnade pikkuse ja esitähtede määramisega
+3. Pane kirja 10 parimat tulemust, mis kõlavad enim ägedate brändinimedena (vajadusel tõlgi Eesti keelde)
+4. Visanda juurde (väga) kiired visandid
+5. Võta nimed ükshaaval ette ja muuda visandeid detailsemaks, tee mõned visandid juurde ja mõtle ka teksti suurusele, paigutusele, stiilile ja paksusele
+6. Skänneeri visandid arvutisse või pildista üles
+7. Vektoriseeri visandid, vali sobivad fondid-kirjastiilid
+8. Koosta tulemustest ühtses stiilis logoportfoolio
+
+-
+
+<div class="grid">
+<f-image src="/img/ss1.png" />
+<f-image src="/img/ss2.png" />
+<f-image src="/img/ss3.png" />
+<f-image src="/img/ss4.png" />
+</div>
+
+---
+
 | chapter: CVI
 | section: Visuaalne identiteet 
 | 1
