@@ -197,4 +197,9 @@ Bränd kui persoon - kui ettevõtte oleks inimene, siis milline ta oleks?
 <f-link to="https://www.lucidpress.com/blog/the-7-key-elements-of-brand-identity-design">The 7 key elements of brand identity</f-link>
 <f-link to="https://www.neworld.com/newsblog/2018/5-components-of-a-visual-identity/">5 components of a visual identity</f-link>
 
+### Inspiratsioon
+<f-link to="https://logopond.com/">Logopond</f-link>
+<f-link to="https://dribbble.com/shots/popular/branding">Dribble</f-link>
+<f-link to="https://www.behance.net/search/projects?tracking_source=nav19&field=branding">Behance</f-link>
+
 ---
