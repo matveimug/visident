@@ -56,8 +56,14 @@ Pole otseselt oluline, mida logo kujutab, kui see on **eristatav**, **meeldej√§√
 
 <center>
 
-Surprising to many, the subject matter of a logo is of relatively little importance, and even appropriateness of content does not always play a significant role.
-This does not imply that appropriateness is undesirable. It merely indicates that a one-to-one relationship between a symbol and what it symbolized is very often impossible to achieve and, under certain conditions, objectionable. Ultimately, the only mandate in the design of logos, it seems, is that they be **distinctive**, **memorable**, **and** **clear**.
+Surprising to many, the subject matter of a logo is of relatively little importance, 
+and even appropriateness of content does not always play a significant role.
+This does not imply that appropriateness is undesirable. It merely indicates 
+that a one-to-one relationship between a symbol and what it symbolized is very often 
+impossible to achieve and, under certain conditions, objectionable. 
+Ultimately, the only mandate in the design of logos, it seems, 
+is that they be **distinctive**, **memorable**, **and** **clear**.
+
 *~ Paul Rand*
 
 </center>
