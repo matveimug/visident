@@ -220,4 +220,9 @@ Bränd kui persoon - kui ettevõtte oleks inimene, siis milline ta oleks?
 <f-link to="https://dribbble.com/shots/popular/branding">Dribble</f-link>
 <f-link to="https://www.behance.net/search/projects?tracking_source=nav19&field=branding">Behance</f-link>
 
+### Mängud
+<f-link to="https://bezier.method.ac/">Bezier.method (Pen Tool-i mäng)</f-link>
+<f-link to="https://type.method.ac/">Type.method (Kern-imise ehk tähevahede mäng)</f-link>
+
+
 ---
