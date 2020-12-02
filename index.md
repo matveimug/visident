@@ -179,6 +179,10 @@ Bränd kui persoon - kui ettevõtte oleks inimene, siis milline ta oleks?
 - muud graafilised elemendid, videod, animatsioonid jne
 
 <f-link to="https://rkiosk.ee/cvi/">R-kiosk</f-link>
+<f-link to="https://www.regio.ee/static/body/files/65.regio_stiiliraamat_v2.pdf">Regio</f-link>
+<f-link to="https://www.tehnopol.ee/wp-content/uploads/2019/12/Tehnopol-CVI-new.pdf">Tehnopol</f-link>
+<f-link to="https://kihnu.kovtp.ee/documents/5492060/17521796/KIHNU_kohabrandi_stiiliraamat+%285%29.pdf/5a585209-093f-4f3f-bc1a-0a02ca5b01a3">Kihnu</f-link>
+<f-link to="https://ut-stiiliraamat.voog.com/">UT</f-link>
 
 ---
 
