@@ -119,8 +119,8 @@ seejuures aitab kompositsioon
 4. Visanda juurde (väga) kiired visandid
 5. Võta nimed ükshaaval ette ja muuda visandeid detailsemaks, tee mõned visandid juurde ja mõtle ka teksti suurusele, paigutusele, stiilile ja paksusele
 6. Skänneeri visandid arvutisse või pildista üles
-7. Vektoriseeri visandid, vali sobivad fondid-kirjastiilid
-8. Koosta tulemustest ühtses stiilis logoportfoolio
+7. Vali välja 3 parimat / lemmikumat visandit, vektoriseeri need, vali sobivad fondid-kirjastiilid
+8. Koosta tulemustest ühtses stiilis logoportfoolio (PDF, kus eraldi lehtedel logod koos piisava ääristusega)
 
 -
 
