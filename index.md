@@ -117,7 +117,7 @@ seejuures aitab kompositsioon
 2. Vali sõnade arvuks 2, katseta ka sõnade pikkuse ja esitähtede määramisega
 3. Pane kirja 10 parimat tulemust, mis kõlavad enim ägedate brändinimedena (vajadusel tõlgi Eesti keelde)
 4. Visanda juurde (väga) kiired visandid
-5. Võta nimed ükshaaval ette ja muuda visandeid detailsemaks, tee mõned visandid juurde ja mõtle ka teksti suurusele, paigutusele, stiilile ja paksusele
+5. Võta nimed ükshaaval ette ja muuda visandeid detailsemaks (kas kõik, või vali 3 tk välja), tee mõned visandid juurde ja mõtle ka teksti suurusele, paigutusele, stiilile ja paksusele
 6. Skänneeri visandid arvutisse või pildista üles
 7. Vali välja 3 parimat / lemmikumat visandit, vektoriseeri need, vali sobivad fondid-kirjastiilid
 8. Koosta tulemustest ühtses stiilis logoportfoolio (PDF, kus eraldi lehtedel logod koos piisava ääristusega)
