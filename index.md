@@ -125,10 +125,10 @@ seejuures aitab kompositsioon
 -
 
 <div class="grid">
-<f-image src="/img/ss1.png" />
-<f-image src="/img/ss2.png" />
-<f-image src="/img/ss3.png" />
-<f-image src="/img/ss4.png" />
+<f-image src="img/ss1.png" />
+<f-image src="img/ss2.png" />
+<f-image src="img/ss3.png" />
+<f-image src="img/ss4.png" />
 </div>
 
 ---
